@@ -1,0 +1,9 @@
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.deps.json
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csprojAssemblyReference.cache
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfoInputs.cache
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfo.cs
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.dll
+A:\csharp_interface\project\02\demos\myproject\PersonRepository.Interface\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.pdb
