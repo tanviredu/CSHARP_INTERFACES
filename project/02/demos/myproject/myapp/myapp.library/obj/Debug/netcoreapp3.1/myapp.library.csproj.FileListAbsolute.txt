@@ -1,0 +1,9 @@
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\obj\Debug\netcoreapp3.1\myapp.library.csprojAssemblyReference.cache
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\obj\Debug\netcoreapp3.1\myapp.library.csproj.CoreCompileInputs.cache
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\obj\Debug\netcoreapp3.1\myapp.library.AssemblyInfoInputs.cache
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\obj\Debug\netcoreapp3.1\myapp.library.AssemblyInfo.cs
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\bin\Debug\netcoreapp3.1\myapp.library.deps.json
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\bin\Debug\netcoreapp3.1\myapp.library.dll
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\bin\Debug\netcoreapp3.1\myapp.library.pdb
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\obj\Debug\netcoreapp3.1\myapp.library.dll
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp.library\obj\Debug\netcoreapp3.1\myapp.library.pdb

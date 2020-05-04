@@ -1,0 +1,9 @@
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+A:\csharp_interface\project\02\demos\myproject\myapp\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
